@@ -32,7 +32,7 @@
 
 ### Крос-чек 
 Додатково виконано швидкий розрахунок одразу в google sheets, та проведено крос-чек результату, файл збережено в папці 
-`data` під назвою `dataset_test Mornhouse_cross-check.csv`
+`data` під назвою `dataset_test Mornhouse_cross-check.csv` **[Посилання на google sheets](https://docs.google.com/spreadsheets/d/1Knt4qNvxZS-IqHwAygeBTap7b0SPUIlMAChmjeITEKQ/edit?usp=sharing)**
 
 
 
